@@ -15,9 +15,9 @@ public class MenuManager {
 
 	public static void main(String[] args) {
 		// 第三方用户唯一凭证
-		String appId = "wx17f074deba8fa00a";
+		String appId = "";
 		// 第三方用户唯一凭证密钥
-		String appSecret = "e4fb6add1f21475defffc812fdc538f1";
+		String appSecret = "";
 
 		// 调用接口获取access_token
 //		AccessToken at = WeixinUtil.getAccessToken(appId, appSecret);
